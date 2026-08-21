@@ -116,6 +116,50 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 369.7892908895263,
+			"y": 2522.4766727541137,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:LSkWO5ddhFHKuUXC7wNRb",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 2.867266442138714,
+					"y": 12.066412944000149
+				},
+				"end": {
+					"x": 2.842170943040401e-14,
+					"y": 119.16938999972899
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "axijE",
+			"typeName": "shape"
+		},
+		{
 			"x": 1206.6280653628583,
 			"y": 3672.744073884497,
 			"rotation": 0,
@@ -572,6 +616,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 1067.1323835046833,
+			"y": 2750.0136787210236,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:mUYGdClhhFwXvuvXq7yBZ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 81.2109375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.8089076334158751,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Web App"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "as3pb",
+			"typeName": "shape"
+		},
+		{
 			"x": 738.2445447954667,
 			"y": 2907.9033926503034,
 			"rotation": 0,
@@ -648,6 +734,90 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 1128.9503493236064,
+			"y": 2644.0741571557523,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:6lBpV1AQklcI1y-57kUHh",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 49.3125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "5000"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "ajXcM",
+			"typeName": "shape"
+		},
+		{
+			"x": -112.36694861105764,
+			"y": 2857.416700866137,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-XDYzMGyTcjMUetng8Myy",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 161.1328125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Docker Container"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "at0Qj",
+			"typeName": "shape"
+		},
+		{
 			"x": 922.3389097992338,
 			"y": 2875.257396084699,
 			"rotation": 0,
@@ -687,6 +857,48 @@
 			},
 			"parentId": "page:page",
 			"index": "aq2QU",
+			"typeName": "shape"
+		},
+		{
+			"x": 479.4398317822535,
+			"y": 3015.086487824995,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:u83PwKwyP4NQXfAb6nwqY",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 51.0078125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3306"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b02Zcz",
 			"typeName": "shape"
 		},
 		{
@@ -831,6 +1043,48 @@
 			},
 			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
 			"index": "a8o7E",
+			"typeName": "shape"
+		},
+		{
+			"x": 53.725433521582715,
+			"y": 3012.5776296881236,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:lC52Ba35gA-ndIcnfGB_9",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 51.0078125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3306"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b01BeA",
 			"typeName": "shape"
 		},
 		{
@@ -1466,6 +1720,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -247.27780818543937,
+			"y": 3078.591170801315,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kCaTy8M2u51t--Lh49Mv9",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 51.0078125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3306"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b07giz",
+			"typeName": "shape"
+		},
+		{
 			"x": 975.3831591662595,
 			"y": 2869.6635132073134,
 			"rotation": 0,
@@ -1497,6 +1793,48 @@
 			},
 			"parentId": "page:page",
 			"index": "aszBq",
+			"typeName": "shape"
+		},
+		{
+			"x": 306.73929652124644,
+			"y": 2689.7413487185663,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Geyk4AR0hELMZIRYaL_Pi",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 117.5546875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "IP: 172.17.0.3"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "amUlc",
 			"typeName": "shape"
 		},
 		{
@@ -1858,9 +2196,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 773.9258068646093,
-			"y": -676.6889896748357,
-			"z": 0.5924188586989614,
+			"x": 21.92198236147211,
+			"y": -3330.509897449501,
+			"z": 0.8646662126092082,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -1902,6 +2240,48 @@
 			},
 			"parentId": "page:page",
 			"index": "aiP8b",
+			"typeName": "shape"
+		},
+		{
+			"x": 677.8188287477269,
+			"y": 2844.1398712786226,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:WY2bt7nO5rKiZocPHDRoK",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 161.1328125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Docker Container"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "av9B2",
 			"typeName": "shape"
 		},
 		{
@@ -2108,6 +2488,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 698.6363778120049,
+			"y": 2683.8873463992,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:hKebTy9iOddPbrad0OoZs",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 117.5,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "IP: 172.17.0.4"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "anNff",
+			"typeName": "shape"
+		},
+		{
 			"x": 1163.4322267721031,
 			"y": 4371.581621706306,
 			"rotation": 0,
@@ -2186,6 +2608,45 @@
 			},
 			"parentId": "page:page",
 			"index": "b0TUP1",
+			"typeName": "shape"
+		},
+		{
+			"x": 622.2058067137443,
+			"y": 2668.5803250284066,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:9p6SDptmcu9Z1XTecMBWc",
+			"type": "geo",
+			"props": {
+				"w": 347.0512420941825,
+				"h": 235.16064929353433,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "aXU3u",
 			"typeName": "shape"
 		},
 		{
@@ -2841,6 +3302,66 @@
 			"typeName": "shape"
 		},
 		{
+			"meta": {},
+			"id": "binding:ClHdvSAz7FPm_pNfoNbFq",
+			"type": "arrow",
+			"fromId": "shape:2by6twadnoGoNGL8xniVu",
+			"toId": "shape:9Ipk8ngddrBEQQqwXaLMW",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.031699530014001415,
+					"y": 0.839667486061246
+				},
+				"snap": "none",
+				"terminal": "start"
+			},
+			"typeName": "binding"
+		},
+		{
+			"x": -224.57861551850772,
+			"y": 2466.1393672699032,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:jnCOQBLoooj4hFkX5o7TR",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 182.1171875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "http://192.168.1.5:80"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b004eQ",
+			"typeName": "shape"
+		},
+		{
 			"x": 458.8088807112854,
 			"y": 2858.615240516068,
 			"rotation": 0,
@@ -2912,6 +3433,66 @@
 			"parentId": "page:page",
 			"index": "b03ynf",
 			"typeName": "shape"
+		},
+		{
+			"x": 722.2465249214911,
+			"y": 2640.213012421198,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:oeTYlyIvnEXWdqIVHEV4c",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 49.3125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "5000"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "ahKIb",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:PTfaYr_KmYU7OTj1ZH-ki",
+			"type": "arrow",
+			"fromId": "shape:2by6twadnoGoNGL8xniVu",
+			"toId": "shape:9Ipk8ngddrBEQQqwXaLMW",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.4332960150195694,
+					"y": 0.8384190078863504
+				},
+				"snap": "none",
+				"terminal": "end"
+			},
+			"typeName": "binding"
 		},
 		{
 			"x": 332.6877612574631,
@@ -3074,6 +3655,92 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 495.46366976358087,
+			"y": 3334.7717624440775,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:L60D49lBZpiTf1PYpRce5",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 2,
+					"y": 0
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "aUN33p",
+			"typeName": "shape"
+		},
+		{
+			"x": 709.6126321608172,
+			"y": 2503.2413050915293,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:aP0_N77jzmrccflN8x7iX",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 45.28125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "8001"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "agQiE",
+			"typeName": "shape"
+		},
+		{
 			"x": 391.7186404717813,
 			"y": 2836.591838933021,
 			"rotation": 0,
@@ -3212,7 +3879,7 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [],
-			"hoveredShapeId": null,
+			"hoveredShapeId": "shape:ATXxDm6huwVvYtBSYaZFy",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -3261,6 +3928,129 @@
 			},
 			"parentId": "page:page",
 			"index": "b056Z6",
+			"typeName": "shape"
+		},
+		{
+			"x": 446.27959670533113,
+			"y": 3145.3007052324365,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QiqhkKIEYnvnzTaGuC7XK",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 62.9765625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.987412435600685,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "MYSQL"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b06TTM",
+			"typeName": "shape"
+		},
+		{
+			"x": -91.51953218800736,
+			"y": 2684.3204231013974,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kAgNK1WhvmCjunEC0U7VQ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 117.734375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "IP: 172.17.0.2"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "al3e2",
+			"typeName": "shape"
+		},
+		{
+			"x": 1001.4913957629083,
+			"y": 2667.5648348301493,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Tmupj5-ZxP4oDuKQC15Qd",
+			"type": "geo",
+			"props": {
+				"w": 345.98348401807334,
+				"h": 231.25549213405884,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "aYrdX",
 			"typeName": "shape"
 		},
 		{
@@ -3484,6 +4274,48 @@
 			},
 			"parentId": "page:page",
 			"index": "b0G3eI",
+			"typeName": "shape"
+		},
+		{
+			"x": -65.47519533858048,
+			"y": 2502.703692633628,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Fg7H1kXTLzt_5PWhUitew",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 25.625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "80"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "acttv",
 			"typeName": "shape"
 		},
 		{
@@ -3970,6 +4802,90 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 7.416093745165085,
+			"y": 3080.7648097652354,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:mvLUNRXQ05IuUc7Wwd1Uf",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 116.4921875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "IP: 172.17.0.5"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b03KCr",
+			"typeName": "shape"
+		},
+		{
+			"x": 1072.8295821904953,
+			"y": 2829.5347328389785,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:y3heeT2xB1rVxynZ78KPY",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 161.1328125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Docker Container"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "awuB2",
+			"typeName": "shape"
+		},
+		{
 			"x": 551.6009543798157,
 			"y": 5012.360766663392,
 			"rotation": 0,
@@ -4066,6 +4982,45 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -81.76783954885838,
+			"y": 3032.7530305387977,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:1w66VCq5PEvxaA_eCD7g-",
+			"type": "geo",
+			"props": {
+				"w": 374.27533961511415,
+				"h": 242.7618921010794,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "aZyxn",
+			"typeName": "shape"
+		},
+		{
 			"x": 1138.799147665878,
 			"y": 3583.926151425946,
 			"rotation": 0,
@@ -4106,6 +5061,110 @@
 			"parentId": "page:page",
 			"index": "b0LmG2",
 			"typeName": "shape"
+		},
+		{
+			"x": -243.09637795732039,
+			"y": 3330.0975207962156,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:0-HMXf7hOwavhOdsL4bln",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 50.7734375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "8306"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b09KXv",
+			"typeName": "shape"
+		},
+		{
+			"x": 1152.2170218072115,
+			"y": 2519.84087834246,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-K9K3Y0JaIMEJpsnxxtk0",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 2.867266442138714,
+					"y": 12.066412944000149
+				},
+				"end": {
+					"x": 2.842170943040401e-14,
+					"y": 119.16938999972899
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "azOgE",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:bTWLmcb6fhb34GSmod_Oz",
+			"type": "arrow",
+			"fromId": "shape:L60D49lBZpiTf1PYpRce5",
+			"toId": "shape:9Ipk8ngddrBEQQqwXaLMW",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.4306213268409272,
+					"y": 0.8336112037345789
+				},
+				"snap": "none",
+				"terminal": "start"
+			},
+			"typeName": "binding"
 		},
 		{
 			"x": 738.1585645911331,
@@ -4186,10 +5245,88 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:_6egpE4_iYKDlyUAuOjvn",
+			"meta": {},
+			"id": "binding:K3584H8TrIzVAsUa6E8nV",
+			"type": "arrow",
+			"fromId": "shape:f2Uz5u25aQbtpP69AdFAI",
+			"toId": "shape:9Ipk8ngddrBEQQqwXaLMW",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.10070364127672095,
+					"y": 0.11488958583867613
+				},
+				"snap": "none",
+				"terminal": "end"
+			},
+			"typeName": "binding"
+		},
+		{
+			"meta": {},
+			"id": "binding:SaQZt0oVoRmhstHW-2244",
+			"type": "arrow",
+			"fromId": "shape:XXldzqFJI9P2z4vvqGqU0",
+			"toId": "shape:kCaTy8M2u51t--Lh49Mv9",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.9462403779029332,
+					"y": 0.44648764886632836
+				},
+				"snap": "none",
+				"terminal": "start"
+			},
+			"typeName": "binding"
+		},
+		{
+			"x": 413.95564767403295,
+			"y": 3470.429305987766,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:rgRXzVZaNxc9F5NPuxF6K",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 112.4921875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Docker Host"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "akQKb",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:_6egpE4_iYKDlyUAuOjvn"
+				"shape:L60D49lBZpiTf1PYpRce5"
 			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
@@ -4327,6 +5464,48 @@
 			},
 			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
 			"index": "aHYAM",
+			"typeName": "shape"
+		},
+		{
+			"x": 15.405612216749432,
+			"y": 3146.8463410489016,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:iOXwUTazVbFg70e3bJZDL",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 62.9765625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.987412435600685,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "MYSQL"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b051Rj",
 			"typeName": "shape"
 		},
 		{
@@ -5689,6 +6868,126 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 303.0208103540977,
+			"y": 2754.575917773489,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:_uYdV2-30v3NHb7KySTnr",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 81.2109375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.8089076334158751,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Web App"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "aqayE",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:KKl_xoxqFGM8JPbpcLx9U",
+			"type": "arrow",
+			"fromId": "shape:L60D49lBZpiTf1PYpRce5",
+			"toId": "shape:9Ipk8ngddrBEQQqwXaLMW",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.4306213268409272,
+					"y": 0.7717447808410253
+				},
+				"snap": "none",
+				"terminal": "end"
+			},
+			"typeName": "binding"
+		},
+		{
+			"x": 309.8380349938704,
+			"y": 2851.524575735068,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:vhhIJK0mo_jsGlS1TnoHL",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 161.1328125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Docker Container"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "au0wn",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:2zZ0MibCQrx5A-YJhe1hR",
+			"type": "arrow",
+			"fromId": "shape:f2Uz5u25aQbtpP69AdFAI",
+			"toId": "shape:9Ipk8ngddrBEQQqwXaLMW",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.1024159242314792,
+					"y": 0.0036601347736065527
+				},
+				"snap": "none",
+				"terminal": "start"
+			},
+			"typeName": "binding"
+		},
+		{
 			"x": 1074.1820455846669,
 			"y": 4557.704434930558,
 			"rotation": 0,
@@ -5728,6 +7027,48 @@
 			},
 			"parentId": "page:page",
 			"index": "b1Dirr",
+			"typeName": "shape"
+		},
+		{
+			"x": 679.0807246558555,
+			"y": 2754.4415146590136,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:VZtnr51MGm2ZWwfQTTdnl",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 81.2109375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.8089076334158751,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Web App"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "arMze",
 			"typeName": "shape"
 		},
 		{
@@ -6004,6 +7345,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 353.459312480783,
+			"y": 2504.4509331218064,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:gkbR6MGHYQNEvju-mxqwe",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 50.578125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "8000"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "aeh6E",
+			"typeName": "shape"
+		},
+		{
 			"x": 469.8029523109822,
 			"y": 3738.7712243654323,
 			"rotation": 0,
@@ -6130,6 +7513,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 1140.6583539623396,
+			"y": 2502.801550162875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Hx6gDyCKHKbGVUvszzsZW",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 49.9609375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "8002"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "aicKU",
+			"typeName": "shape"
+		},
+		{
 			"x": 888.4818918736762,
 			"y": 3615.335435641867,
 			"rotation": 0,
@@ -6211,6 +7636,126 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -163.76867305814886,
+			"y": 2668.0427125705055,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:3TqFw4ExlAPyRHg2ekVei",
+			"type": "geo",
+			"props": {
+				"w": 347.4096503994498,
+				"h": 236.09400425516833,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "aV0KI",
+			"typeName": "shape"
+		},
+		{
+			"x": 340.4072766972974,
+			"y": 3033.4101124317876,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Sxp44purRz6shQrLwVdth",
+			"type": "geo",
+			"props": {
+				"w": 410.2207058975512,
+				"h": 236.87055558324755,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "aaUzIV",
+			"typeName": "shape"
+		},
+		{
+			"x": 348.4415962070403,
+			"y": 2639.7202010014553,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:6Tl2ppg7T-s35aZAWl5Wf",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 49.3125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "5000"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "afDgz",
+			"typeName": "shape"
+		},
+		{
 			"x": 986.1282336018295,
 			"y": 3676.135021605386,
 			"rotation": 0,
@@ -6253,12 +7798,51 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 432.6132693998777,
-			"y": 154.2100568152476,
-			"z": 1.015801651664309,
+			"x": 495.4456922243009,
+			"y": -2140.883830239791,
+			"z": 0.5231463591786507,
 			"meta": {},
 			"id": "camera:page:kevi_8ziZRBjXGF6dbUmV",
 			"typeName": "camera"
+		},
+		{
+			"x": 236.2747303377485,
+			"y": 2666.6090793494363,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:rCgIaVdyGw1znnVfPZa9w",
+			"type": "geo",
+			"props": {
+				"w": 350.70999354378654,
+				"h": 239.48394947582165,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "aWO5U",
+			"typeName": "shape"
 		},
 		{
 			"x": 1168.158044135092,
@@ -6300,6 +7884,48 @@
 			},
 			"parentId": "page:page",
 			"index": "b1BikM",
+			"typeName": "shape"
+		},
+		{
+			"x": 1094.2295447508327,
+			"y": 2683.3646676206845,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:XpsSCOERNSjromXa2tO0w",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 116.4921875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "IP: 172.17.0.5"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "aoUhL",
 			"typeName": "shape"
 		},
 		{
@@ -6475,6 +8101,24 @@
 			"parentId": "page:page",
 			"index": "b14XxI",
 			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:TYETSi2zoochRb5ScV2ZL",
+			"type": "arrow",
+			"fromId": "shape:XXldzqFJI9P2z4vvqGqU0",
+			"toId": "shape:1w66VCq5PEvxaA_eCD7g-",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.005386533665835432,
+					"y": 0.2191498523622042
+				},
+				"snap": "none",
+				"terminal": "end"
+			},
+			"typeName": "binding"
 		},
 		{
 			"x": 502.3113915854482,
@@ -6898,6 +8542,50 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -194.27818004403127,
+			"y": 3339.4012030537806,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:2by6twadnoGoNGL8xniVu",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 2,
+					"y": 0
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "aUT7t8",
+			"typeName": "shape"
+		},
+		{
 			"x": 1155.8183921311283,
 			"y": 4560.255052607285,
 			"rotation": 0,
@@ -7213,6 +8901,1206 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -229.9190050361375,
+			"y": 537.5417071687185,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:FXKxnO9dxfVu7R0SZFi7B",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1975.2526130972303,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.0055854339073034,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Suppose you were to run docker container from an Ubuntu image, you run \"ducker run Ubuntu\" command it runs an instance of the ubuntu image and exits immediately."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "if you were to list the running containers, you wouldn't see the container running. if you list all containers, including those that are stopped, you will see that the new container "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "you ran is in exited state. Unlike Virtual machines, containers are not meant to host on operating system. Containers are meant to run a specific taks or process, such as to host an instance of "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "a web server or an application server or a database or simply to carry out some kind of computation or analysis task. Once the task is complete, the container exits. A container only lives as"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "long as the process inside it is alive. if the web service inside the container is stopped or crashed, then the container exits. This is why when you run a container from an Ubuntu image it stops "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "immediately, because Ubuntu is just an image of an operating system that is used as the base image for other applications. There is no process or application running in it by default. Suppose if"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "you want to run a container in a sleep mode you can use \""
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run ubuntu sleep 5"
+								},
+								{
+									"type": "text",
+									"text": "\" after which the sleep command exits and the container stops."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Now if you want to execute a command on a running container and would like to see a particular file inside a container we can use "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker exec 538d cat /etc/hosts "
+								},
+								{
+									"type": "text",
+									"text": "this is how we debug "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "change a config, check a log, run a quick query. "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Suppose, let's consider you are running a web application name codecloud by using the command "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run codecloud "
+								},
+								{
+									"type": "text",
+									"text": "it runs on the port which ever we configured and when you run a docker"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "run command like this, it runs in the foreground or in attached mode, meaning you will be attached to the console or the standard out of the docker container, and you will see the output of the "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "web service on your screen. you won't be able to do anything else on this console other than view the output until this docker container sotps. it won't respond to your inputs. press the control C"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "combination to stop the container exists, and you get back to your prompt. Another option is to run the docker container in detached mode by providing the das D option, "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run -d codecloud"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "this will run the docker container in the background, and you will be back to your prompt immediately. The container will continue to run in the backend. Now if you would like to attach bac to the "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "running container later run the docker attach command "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker attach a043d"
+								},
+								{
+									"type": "text",
+									"text": " and specify the docker container ID. If you are specifying the ID of a container in any docker command, you can "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "simply provide the first few characters alone just emough so it is different from the other container Id's on the host."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "To clear all the stopped containers, all networks not used by at least one container, all dangling images, unused build cache you can use "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker system prune"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "To name a container of our choise we can use "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run --name <name> <container>"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Tags:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "we can run a docker container simply by "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run redis "
+								},
+								{
+									"type": "text",
+									"text": "which will gives us the latest version of Redis currently version 8.6.1 but what if we want to run another version like 7.4?"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "You specify the version with a colon such as 7.4 this is called a tag "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run redis:7.4. "
+								},
+								{
+									"type": "text",
+									"text": "If you don't specify the version docker runs the latest version of redis docker considers default tags"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "to be the latest"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Note: In production you should always pin to a specific tag, like"
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": " docker run redis:7.4"
+								},
+								{
+									"type": "text",
+									"text": " not like "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run redis"
+								},
+								{
+									"type": "text",
+									"text": " because what if the author pushed something which will break our changes to the latest"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "and we ended up using that latest"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Interactive Mode"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "let's consider we have a simple prompt application which will be like below"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "welcome! Please enter your name: Syfulla"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Hello and welcome Syfulla"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "The above application is taking an input which is name and prints an output along with the imput now if we dockerize this application, it wonldn't wait for the prompt it just prints whetever the application"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "is supposed to print on standerd out. That's because by default, docker container does not listen to standard input even though you're attached to it's console. It runs in a non-interactive mode. if you'd like"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "to provide your input, you must map the standard input of your host to the docker container using the dash i parameter for the interactive mode"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run kodekloud/simple-prompt-docker"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Hello and Welcome!"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run -i kodekloud/simple-prompt-docker"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Syfulla"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Hello and welcome Syfulla!"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Now the Prompt is missing, even though it seems to have accepted our input. That's because the application prompts on the terminal and we have not attached to the container's terminal.. For this, use the"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "dash t option as well. The dash t stands for pseudo terminal. So with the combination of dash i and dash t, we are now attached to the terminal as well"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run -it kodekloud/simple-prompt-docker"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Welcome! Please enter your name: Syfulla"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Hello and Welcome Syfulla!"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "you can use only -i or -t alone when you have use case like if you just want standard input connected so the container can read the data but don't need terminal because i'm not typing anything and you can"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "use -t alone when you want colored output or progress bars and I don't need to type anything. Programs check whether they're attached to a terminal to decide whether to emit colors and pretty formatting."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "With -t programs thinks it's talking to real terminal"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "-i alone STDIN in, no TTY  "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run -i postgres psql "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "-t alone TTY, no STDIN(coloured output/progress bars)  "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run -t alpins --color=always"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Port Mapping"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Let's take an example of a simple web application in a docker container on my Docker host. The underlying host where Docker is installed is called Docker host or docker engine. when we run the containerized"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "web application, it runs and we can see that the server is running. But how does a user actually access our application?. our application is listening on port 5000, so we could access it on port 5000. But what"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "IP do we use to reach it from a web browser?. There are two options. One is to use the IP of the DOcker Container. Every Docker Container gets an IP assigned by default. But remember, this is an internal IP"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "and is only accessible within the Docker host. So, if you open a browser from within the Docker host, you can go to that container IP on port 5000. Bust since this is an internal IP, users otside the Docker host "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "cannot reach it. For that we use the IP of the Docker host. to connect the IP of the docker host to the container we must map it first inside the docker container to a free port on the docker host."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "For example, if I want users to reach our application through port 80 on our Docker host we map port 80 of the host to port 5000 on the container using the P parameter and so the user can now reach our "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "application by going to that host IP on port 80 and all traffic on port 80 of docker host gets routed to port 5000 inside the container. Similarly, we can map multiple instances of our application to different "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "ports on the docker host or instances of different applications on different ports"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run -p 80:5000 kodekloud/webapp"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run -p 8000:5000 kodekloud/webapp"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run -p 8001:5000 kodekloud/webapp"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run -p 3306:3306 mysql"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run -p 8306:3306 mysql"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "you cannot map to the same port on the Docker host more than once."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "aTicX",
+			"typeName": "shape"
+		},
+		{
+			"x": -56.99286544725345,
+			"y": 2523.5444308302226,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:f2Uz5u25aQbtpP69AdFAI",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 2,
+					"y": 0
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "aUjFZV",
+			"typeName": "shape"
+		},
+		{
+			"x": 448.23590870491535,
+			"y": 3081.3621569406805,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:LcFCxBTywNyDd6Jxh3XFP",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 117.75,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "IP: 172.17.0.6"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b04jCn",
+			"typeName": "shape"
+		},
+		{
 			"meta": {},
 			"id": "page:page",
 			"name": "Page 1",
@@ -7264,13 +10152,15 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
+				"tldraw:size": "s",
 				"tldraw:geo": "rectangle",
-				"tldraw:size": "s"
+				"tldraw:color": "black",
+				"tldraw:arrowheadStart": "none"
 			},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "default",
+				"type": "cross",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -7280,8 +10170,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1872,
-				"h": 966
+				"w": 1652,
+				"h": 852
 			},
 			"insets": [
 				false,
@@ -7296,7 +10186,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 1,
+			"devicePixelRatio": 2,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
@@ -7443,6 +10333,14 @@
 			"parentId": "page:page",
 			"index": "b0mP5A",
 			"typeName": "shape"
+		},
+		{
+			"name": "",
+			"color": "#9D5BD2",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:gHOLZSnmDP7eV3-kLGMIL",
+			"typeName": "user"
 		},
 		{
 			"x": 379.74440501377086,
@@ -8334,6 +11232,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -78.22109069465029,
+			"y": 2642.7517379168416,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:dPA8iYiOuMTalWVsS1Vlp",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 49.3125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "5000"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "adiOr",
+			"typeName": "shape"
+		},
+		{
 			"x": 565.5486508193896,
 			"y": 4904.686230595235,
 			"rotation": 0,
@@ -8567,6 +11507,50 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -199.0121564094374,
+			"y": 3089.306874374107,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:XXldzqFJI9P2z4vvqGqU0",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 2,
+					"y": 0
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b08xUN",
+			"typeName": "shape"
+		},
+		{
 			"x": 960.6423479402544,
 			"y": 3672.000774266223,
 			"rotation": 0,
@@ -8765,6 +11749,92 @@
 			},
 			"parentId": "page:page",
 			"index": "b0quRU",
+			"typeName": "shape"
+		},
+		{
+			"x": -87.25596672326463,
+			"y": 2750.6632937743207,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:icwuF2g9O-QYzv54xpuC4",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 81.2109375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.8089076334158751,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Web App"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "apH4X",
+			"typeName": "shape"
+		},
+		{
+			"x": 733.2302461099964,
+			"y": 2522.0062618534503,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:TDeCPrlVSFwtI3VcDx7xM",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 2.867266442138714,
+					"y": 12.066412944000149
+				},
+				"end": {
+					"x": 2.842170943040401e-14,
+					"y": 119.16938999972899
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "ayMMn",
 			"typeName": "shape"
 		},
 		{
@@ -8981,6 +12051,45 @@
 			},
 			"parentId": "page:page",
 			"index": "b1Ng4n",
+			"typeName": "shape"
+		},
+		{
+			"x": -225.62397307553738,
+			"y": 2532.086495439094,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:9Ipk8ngddrBEQQqwXaLMW",
+			"type": "geo",
+			"props": {
+				"w": 1674.5284032471761,
+				"h": 962.9012462991773,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "aULQr",
 			"typeName": "shape"
 		}
 	]
