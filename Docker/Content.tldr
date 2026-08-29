@@ -35,6 +35,87 @@
 	},
 	"records": [
 		{
+			"x": 61.791475123239934,
+			"y": 3854.511870806783,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:euGYs2wdm8-dfIFy9DgbE",
+			"type": "geo",
+			"props": {
+				"w": 988.5504780925883,
+				"h": 557.6622604881377,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0Bk0n",
+			"typeName": "shape"
+		},
+		{
+			"x": 514.5033634148706,
+			"y": 96.77020660049197,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ATrF1ybbIE7gjUAlOG2br",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 141.90625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Docker Images"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:LCyPAPSZw0YbNqFVstewh",
+			"index": "a1iTI",
+			"typeName": "shape"
+		},
+		{
 			"x": 711.4253112722422,
 			"y": 4915.191334415592,
 			"rotation": 0,
@@ -322,12 +403,69 @@
 			"typeName": "shape"
 		},
 		{
+			"editingShapeId": "shape:blvbBFb0qU4t-whHCPOo5",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:blvbBFb0qU4t-whHCPOo5"
+			],
+			"hoveredShapeId": "shape:blvbBFb0qU4t-whHCPOo5",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:LCyPAPSZw0YbNqFVstewh",
+			"pageId": "page:LCyPAPSZw0YbNqFVstewh",
+			"typeName": "instance_page_state"
+		},
+		{
 			"x": 0,
 			"y": 0,
 			"lastActivityTimestamp": 0,
 			"meta": {},
 			"id": "pointer:pointer",
 			"typeName": "pointer"
+		},
+		{
+			"x": 821.3697571077881,
+			"y": 4869.897947836672,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:9H7k75K-vxgcZPvW3-vXM",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 125.296875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Data base"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0SUWs",
+			"typeName": "shape"
 		},
 		{
 			"x": 1078.1766000798555,
@@ -1158,6 +1296,50 @@
 			},
 			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
 			"index": "aE95X",
+			"typeName": "shape"
+		},
+		{
+			"x": 411.4450633113521,
+			"y": 1008.8532358688738,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-ikpD8wpnoUFR2n7WQZBg",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 2,
+					"y": 0
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:LCyPAPSZw0YbNqFVstewh",
+			"index": "a4JyQ",
 			"typeName": "shape"
 		},
 		{
@@ -2196,9 +2378,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 21.92198236147211,
-			"y": -3330.509897449501,
-			"z": 0.8646662126092082,
+			"x": 375.2868408759221,
+			"y": -1801.7159059763871,
+			"z": 0.5061032971196162,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -2322,6 +2504,32 @@
 			"parentId": "page:page",
 			"index": "auERj",
 			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:faL11HESmg--XGKZBM7My",
+			"type": "arrow",
+			"fromId": "shape:HppcRcmS-at60GiLxqnxn",
+			"toId": "shape:T0N6qWjMg2UtawgM9WP9O",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.13096493770077994,
+					"y": 0.9212025959244444
+				},
+				"snap": "none",
+				"terminal": "start"
+			},
+			"typeName": "binding"
+		},
+		{
+			"x": 1.0091578300993507,
+			"y": -215.3422640369576,
+			"z": 0.6305245204674761,
+			"meta": {},
+			"id": "camera:page:LCyPAPSZw0YbNqFVstewh",
+			"typeName": "camera"
 		},
 		{
 			"x": 934.3510187837975,
@@ -3362,6 +3570,318 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -188.5227479330876,
+			"y": 5195.221282452265,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:vVSOO6OJxI1-ezqTssWZH",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1992.546875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run -v /opt/datadir:/var/lib/mysql msql"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Now, when the container run it implicitly mounts the external directory to a folder inside the container all the data will be stored in the /opt/datadir even "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "if you delete the container the data will persist in the external directory "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "-V vs --mount"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "-v short syntax( single colon separated string):"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run -v /opt/datadir:/var/lib/mysql mysql"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "--mount (explicit syntax)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "key value pairs"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run --mount type=bind, source=/opt/datadir, target=/var/lib/mysql mysql"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "You can use any of the above none of the above are deprecated as of now "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Inspect and Logs"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "The Docker PS command is good enough to get the basic details about the container like their names and id's but if you would like to know additional details"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "about a specific container use the docker inspect command and provide the container name or id it returns all the details of the container in json format state"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "mount configurations, data networks settings and more."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Suppose you ran a docker container using the"
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": " docker run -d kodekloud/webapp "
+								},
+								{
+									"type": "text",
+									"text": "and now you want to check the logs of the standard out in this case use the"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker logs <container id>"
+								},
+								{
+									"type": "text",
+									"text": " which will return the logs of that specific container"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0Uyy6",
+			"typeName": "shape"
+		},
+		{
 			"x": 458.8088807112854,
 			"y": 2858.615240516068,
 			"rotation": 0,
@@ -3432,6 +3952,50 @@
 			},
 			"parentId": "page:page",
 			"index": "b03ynf",
+			"typeName": "shape"
+		},
+		{
+			"x": 503.4450953730026,
+			"y": 4885.455482775256,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:BpLZX7-Ra3yHwOF41Hf61",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 2,
+					"y": 0
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0NpR3V",
 			"typeName": "shape"
 		},
 		{
@@ -3618,6 +4182,48 @@
 			},
 			"parentId": "page:page",
 			"index": "b0Blwz",
+			"typeName": "shape"
+		},
+		{
+			"x": 207.26485474976528,
+			"y": 4954.828390142907,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:YIONAN_w7UjCRUixU_CBi",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 214.515625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.3278786239777958,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Docker Container"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0RFuz",
 			"typeName": "shape"
 		},
 		{
@@ -3879,7 +4485,7 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [],
-			"hoveredShapeId": "shape:ATXxDm6huwVvYtBSYaZFy",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -4154,6 +4760,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -184.63540379371182,
+			"y": 4544.293679579248,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:gFOw3lCvJTaMIQEPeE5co",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1621.125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "If you would like the keep the data persisted you have to map the data to a directory out side the container on the docker host "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0JzD7",
+			"typeName": "shape"
+		},
+		{
 			"x": 1035.405523265772,
 			"y": 3795.163660209032,
 			"rotation": 0,
@@ -4361,6 +5009,57 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 248.68387495635898,
+			"y": 4743.774284089281,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:9iV4jZ29_X04t2DNLsX0n",
+			"type": "geo",
+			"props": {
+				"w": 208.66063913999676,
+				"h": 62,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "data base"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0O6vX",
+			"typeName": "shape"
+		},
+		{
 			"x": 212.15614047178133,
 			"y": 2836.794963933021,
 			"rotation": 0,
@@ -4479,6 +5178,24 @@
 			"parentId": "page:page",
 			"index": "aLoJv",
 			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:QdGahuib3ndUyvZUycYis",
+			"type": "arrow",
+			"fromId": "shape:HppcRcmS-at60GiLxqnxn",
+			"toId": "shape:T0N6qWjMg2UtawgM9WP9O",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.13096493770077994,
+					"y": 0.9733728889674108
+				},
+				"snap": "none",
+				"terminal": "end"
+			},
+			"typeName": "binding"
 		},
 		{
 			"x": 822.4223737823329,
@@ -4765,6 +5482,45 @@
 			},
 			"parentId": "page:page",
 			"index": "aXZnM",
+			"typeName": "shape"
+		},
+		{
+			"x": 426.00348336720845,
+			"y": 3932.4219219816914,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:cK6y35BQZEYQ-vjIpNLTT",
+			"type": "geo",
+			"props": {
+				"w": 225.76249831482096,
+				"h": 49.23201273464019,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0Hjvn",
 			"typeName": "shape"
 		},
 		{
@@ -5326,7 +6082,7 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:L60D49lBZpiTf1PYpRce5"
+				"shape:FXKxnO9dxfVu7R0SZFi7B"
 			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
@@ -5467,6 +6223,50 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 291.4556774205261,
+			"y": 1009.8444740835853,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:HppcRcmS-at60GiLxqnxn",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 2,
+					"y": 0
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:LCyPAPSZw0YbNqFVstewh",
+			"index": "a30Wf",
+			"typeName": "shape"
+		},
+		{
 			"x": 15.405612216749432,
 			"y": 3146.8463410489016,
 			"rotation": 0,
@@ -5506,6 +6306,48 @@
 			},
 			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
 			"index": "b051Rj",
+			"typeName": "shape"
+		},
+		{
+			"x": 371.1264489279622,
+			"y": 1056.1602573028306,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ie8cZ1V5fPaW8ca9XXW1c",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 114.1875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "image name"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:LCyPAPSZw0YbNqFVstewh",
+			"index": "a6pbX",
 			"typeName": "shape"
 		},
 		{
@@ -6669,6 +7511,13 @@
 			"typeName": "shape"
 		},
 		{
+			"meta": {},
+			"id": "page:LCyPAPSZw0YbNqFVstewh",
+			"name": "Page 3",
+			"index": "a3GiE",
+			"typeName": "page"
+		},
+		{
 			"x": 1074.753613215365,
 			"y": 3575.6602368574677,
 			"rotation": 0,
@@ -6705,6 +7554,48 @@
 			},
 			"parentId": "page:page",
 			"index": "b0HPeE",
+			"typeName": "shape"
+		},
+		{
+			"x": 263.2554219525367,
+			"y": 4814.434244419919,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:av2_w7vkgDla_tc2Hi2rx",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 170.5625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "/var/lib/mysql"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0PeBf",
 			"typeName": "shape"
 		},
 		{
@@ -6750,6 +7641,107 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -222.91145459798156,
+			"y": 3579.43647032321,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:zN_iiTqa1ZlCEbWXf2gOu",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1987.9375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Volumes and Bid mounts"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "How data is persisted in Docker?."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Let's say you were to run a MySQL container, when database and tables are created the data files are stored in /var/lib/mysql inside the container the docker"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "container has it's own isolated file system, and any changes to any files happen within the container. Let's assume you dump a lot of data into the database"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "and if you were to delete or remove the container all your dumped data get's deleted as well"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0Am3b",
+			"typeName": "shape"
+		},
+		{
 			"x": 211.26112490932584,
 			"y": 2899.7997583918595,
 			"rotation": 0,
@@ -6781,6 +7773,45 @@
 			},
 			"parentId": "page:page",
 			"index": "aWDsn",
+			"typeName": "shape"
+		},
+		{
+			"x": 195.0641947906721,
+			"y": 4741.365763924623,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:g5_3dtnoxAaWmHvh1BPmx",
+			"type": "geo",
+			"props": {
+				"w": 310.82705387456053,
+				"h": 278.1163393883062,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0LuMb",
 			"typeName": "shape"
 		},
 		{
@@ -7303,6 +8334,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 804.2090509346036,
+			"y": 4923.05850384597,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:KxPzoPl2emm8Q4Yd5DUGM",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 151.84375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "/opt/datadir"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0TqrE",
+			"typeName": "shape"
+		},
+		{
 			"x": -219.9079583817349,
 			"y": 490.00096994163334,
 			"rotation": 0,
@@ -7384,6 +8457,48 @@
 			},
 			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
 			"index": "aeh6E",
+			"typeName": "shape"
+		},
+		{
+			"x": 468.92393550832185,
+			"y": 3941.796971714851,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:DVTy94xNwME-UX7co2Uhx",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 125.46875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "data base"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0IlhU",
 			"typeName": "shape"
 		},
 		{
@@ -7636,6 +8751,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 224.3488502845581,
+			"y": 1055.2309714765386,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:v3Gc8RXQK1MstruSEGue5",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 129.671875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "account name"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:LCyPAPSZw0YbNqFVstewh",
+			"index": "a5uX6",
+			"typeName": "shape"
+		},
+		{
 			"x": -163.76867305814886,
 			"y": 2668.0427125705055,
 			"rotation": 0,
@@ -7672,6 +8829,45 @@
 			},
 			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
 			"index": "aV0KI",
+			"typeName": "shape"
+		},
+		{
+			"x": 808.6121268606181,
+			"y": 4864.516410593766,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:vPoDNEaPkYMvcomMy-0Ep",
+			"type": "geo",
+			"props": {
+				"w": 160.6332417316239,
+				"h": 38.355683622169636,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0NdzW",
 			"typeName": "shape"
 		},
 		{
@@ -7756,6 +8952,84 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 291.51019946607335,
+			"y": 3928.2264822868688,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:PL_7gHD99XRPZ07LrLoG3",
+			"type": "geo",
+			"props": {
+				"w": 530.9715355875228,
+				"h": 321.33755873108794,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0Dbon",
+			"typeName": "shape"
+		},
+		{
+			"x": 102.39638145547656,
+			"y": 4662.697474046496,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:HhokBQVEfKisXb4c5HW9F",
+			"type": "geo",
+			"props": {
+				"w": 967.3595442581275,
+				"h": 448.39871502958886,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0Kqk6",
+			"typeName": "shape"
+		},
+		{
 			"x": 986.1282336018295,
 			"y": 3676.135021605386,
 			"rotation": 0,
@@ -7798,9 +9072,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 495.4456922243009,
-			"y": -2140.883830239791,
-			"z": 0.5231463591786507,
+			"x": 436.9543382407428,
+			"y": 602.4474088446486,
+			"z": 0.61946303226797,
 			"meta": {},
 			"id": "camera:page:kevi_8ziZRBjXGF6dbUmV",
 			"typeName": "camera"
@@ -7926,6 +9200,48 @@
 			},
 			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
 			"index": "aoUhL",
+			"typeName": "shape"
+		},
+		{
+			"x": 279.9946370969061,
+			"y": 4869.2280781658765,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:egEdS4QuIUgk1oHuEARv0",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 84,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.5796397673053986,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "MySQL"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0Q5UH",
 			"typeName": "shape"
 		},
 		{
@@ -8062,6 +9378,24 @@
 			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
 			"index": "a9gxj",
 			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:hve0H71odLiTRJN4Sj4HN",
+			"type": "arrow",
+			"fromId": "shape:-ikpD8wpnoUFR2n7WQZBg",
+			"toId": "shape:T0N6qWjMg2UtawgM9WP9O",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.20692035640262718,
+					"y": 0.9201157119170853
+				},
+				"snap": "none",
+				"terminal": "start"
+			},
+			"typeName": "binding"
 		},
 		{
 			"x": 1053.766532045966,
@@ -8325,6 +9659,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 451.28652784390306,
+			"y": 3986.8151437033757,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:iZsUCXbcj65-nAgUUyCNn",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 170.5625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "/var/lib/mysql"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0EsH2",
+			"typeName": "shape"
+		},
+		{
 			"x": 669.40826625521,
 			"y": 3676.938714317643,
 			"rotation": 0,
@@ -8411,6 +9787,48 @@
 			},
 			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
 			"index": "aNZab",
+			"typeName": "shape"
+		},
+		{
+			"x": 451.0197126001533,
+			"y": 4061.689307315591,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:l6TNwVsuaOp9ChtX4p2T4",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 84,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 2.3222469714885934,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "MySQL"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0FzUVV",
 			"typeName": "shape"
 		},
 		{
@@ -8715,6 +10133,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 451.9554502279349,
+			"y": 5059.734496564768,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:RwxpbddozITdJEI79ZPOD",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 148.21875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Docker host"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0MiCv",
+			"typeName": "shape"
+		},
+		{
 			"x": 817.6504632224307,
 			"y": 5014.629367891516,
 			"rotation": 0,
@@ -8801,6 +10261,87 @@
 			},
 			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
 			"index": "aIrsI",
+			"typeName": "shape"
+		},
+		{
+			"x": 81.09014730337991,
+			"y": 1120.5657826668587,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:blvbBFb0qU4t-whHCPOo5",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1038.84375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "The above command will create an image locally and you can push the image to the public docker hub registry"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker push mmumshad/my-custom-app"
+								},
+								{
+									"type": "text",
+									"text": " "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:LCyPAPSZw0YbNqFVstewh",
+			"index": "a7GKf",
 			"typeName": "shape"
 		},
 		{
@@ -10152,15 +11693,13 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:size": "s",
 				"tldraw:geo": "rectangle",
-				"tldraw:color": "black",
-				"tldraw:arrowheadStart": "none"
+				"tldraw:size": "s"
 			},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "cross",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -10170,8 +11709,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1652,
-				"h": 852
+				"w": 1264,
+				"h": 949
 			},
 			"insets": [
 				false,
@@ -10186,7 +11725,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 2,
+			"devicePixelRatio": 1,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
@@ -10196,7 +11735,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"currentPageId": "page:LCyPAPSZw0YbNqFVstewh",
 			"typeName": "instance"
 		},
 		{
@@ -10239,6 +11778,48 @@
 			},
 			"parentId": "page:page",
 			"index": "b0JmlI",
+			"typeName": "shape"
+		},
+		{
+			"x": 375.8238164909744,
+			"y": 4147.456607392645,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:HadLcF1XOJljrpKQJJwq5",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 214.515625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.6891768742111992,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Docker Container"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0Gvjf",
 			"typeName": "shape"
 		},
 		{
@@ -10700,6 +12281,546 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 84.56586341487059,
+			"y": 169.70770660049197,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:T0N6qWjMg2UtawgM9WP9O",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1579.734375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "How to create our own image?."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Why do we need to create our own image?. "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "If you cannont find a component or service that you want to use as part of your application on Docker Hub already or you and your team decided that the application"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "you are developing will be containerized for ease of shipping and deployment"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Here we are going to containerize a simple web application that have been built using Python Flask Framework. "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "First we need to understand what we are containerizing or what application we are creating an image for and how the application is build. So, start by thinking what"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "you might do if you want to deploy the application manually write down the steps required in the right order. let's consider we have a web application build on Flask"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "here are the steps "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 1,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Operating system (Ubuntu)"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "update package repo(apt update)"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Install Flask (apt install python3-flask)"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "copy source code (app.py ==> /opt/app.py)"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Set Environment variables(FLASK_APP=/opt/app.py)"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Launch web server (flask run)"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Then create a file named Dockerfile and write down the instruction for setting up your application in it installing dependencies where to copy the source code from and"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "to what environment variables to set what entry point of the application is and so on"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "From ubuntu"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Run apt-get update"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Run apt-get install -y python3-flask"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "copy "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "http://app.py",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										},
+										{
+											"type": "code"
+										}
+									],
+									"text": "app.py"
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": " /apt/app.py"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "ENV FLASK_APP=/opt/app.py"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Entrypoint flask run --host=0.0.0.0"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Now build your image using the docker build command and specify the docker file as input as well as tag name for the image "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker build -t mmumshad/my-custom-app ."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:LCyPAPSZw0YbNqFVstewh",
+			"index": "a2ZMb",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:zQJ78M13mpUIRUMgmdNdm",
+			"type": "arrow",
+			"fromId": "shape:BpLZX7-Ra3yHwOF41Hf61",
+			"toId": "shape:vPoDNEaPkYMvcomMy-0Ep",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.012885390310186328,
+					"y": 0.4791451828744499
+				},
+				"snap": "none",
+				"terminal": "end"
+			},
+			"typeName": "binding"
+		},
+		{
 			"x": 390.4008806383695,
 			"y": 2859.507285136029,
 			"rotation": 0,
@@ -11148,6 +13269,24 @@
 			"typeName": "shape"
 		},
 		{
+			"meta": {},
+			"id": "binding:c8PGUlykl22kYV83tQ8S6",
+			"type": "arrow",
+			"fromId": "shape:BpLZX7-Ra3yHwOF41Hf61",
+			"toId": "shape:g5_3dtnoxAaWmHvh1BPmx",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.9921301789476239,
+					"y": 0.5180915266163314
+				},
+				"snap": "none",
+				"terminal": "start"
+			},
+			"typeName": "binding"
+		},
+		{
 			"x": 768.7890123849761,
 			"y": 2838.124695338128,
 			"rotation": 0,
@@ -11551,6 +13690,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 438.2125809001682,
+			"y": 4330.2431645118095,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:eih6dcCcahe9R9nclVkSQ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 149.65625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Docker Host"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:kevi_8ziZRBjXGF6dbUmV",
+			"index": "b0C9TM",
+			"typeName": "shape"
+		},
+		{
 			"x": 960.6423479402544,
 			"y": 3672.000774266223,
 			"rotation": 0,
@@ -11878,6 +14059,24 @@
 			"parentId": "page:page",
 			"index": "b0jJXr",
 			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:dW9yIvsUuPp9YD31CN7ri",
+			"type": "arrow",
+			"fromId": "shape:-ikpD8wpnoUFR2n7WQZBg",
+			"toId": "shape:T0N6qWjMg2UtawgM9WP9O",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.20692035640262718,
+					"y": 0.9691418283245707
+				},
+				"snap": "none",
+				"terminal": "end"
+			},
+			"typeName": "binding"
 		},
 		{
 			"x": 483.6034221359856,
